@@ -4,6 +4,7 @@ image: images/people/vadim.png
 description: Ph.D. 2024-  
 role: phd  
 links:  
+    home-page: /group/vadim/
     email: 
 ---
 
