@@ -4,7 +4,7 @@ image: images/people/zjt.jpg
 description: Tenure-Track Assistant Professor 教研系列准聘助理教授  
 role: pi  
 links: 
-    home-page: https://jingtaozhan.github.io/   
+    home-page: /group/jingtaozhan/   
     email: jingtaozhan@gmail.com   
     github: jingtaozhan   
     twitter: Jingtao_Zhan  
