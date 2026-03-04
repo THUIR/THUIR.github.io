@@ -4,7 +4,7 @@ image: images/people/JiayinWang.jpg
 description: Ph.D. 2024-
 role: phd  
 links:   
-    home-page: https://alice1998.github.io  
+    home-page: /group/wangjiayin/  
     email: alicethu0208@gmail.com  
 ---  
 

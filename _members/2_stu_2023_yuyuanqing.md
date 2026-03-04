@@ -4,7 +4,7 @@ image: images/people/yyq.jpg
 description: Ph.D. 2023-  
 role: phd  
 links:  
-    home-page: https://yuyq18.github.io/   
+    home-page: /group/yuyuanqing/   
     email: yuyq0114@gmail.com
     github: yuyq18
 ---

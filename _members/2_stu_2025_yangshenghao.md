@@ -4,7 +4,7 @@ image: images/people/yangsh.jpg
 description: Ph.D. 2025-
 role: phd  
 links:  
-    home-page: https://ysh-1998.github.io/  
+    home-page: /group/yangshenghao/  
     email: yangsh824@gmail.com  
     github: ysh-1998  
 ---

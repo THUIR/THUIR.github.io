@@ -4,7 +4,7 @@ image: images/people/xxe.jpg
 description: Ph.D. 2023-   
 role: phd   
 links:  
-    home-page: https://metildachee.github.io/
+    home-page: /group/xuxinger/
     email: metildachee@gmail.com   
     github: metildachee   
 ---  

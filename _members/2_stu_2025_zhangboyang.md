@@ -4,7 +4,7 @@ image: images/people/zby.jpg
 description: M.S. 2025-
 role: master
 links:
-  home-page: https://zbynekcoder.github.io/
+  home-page: /group/zhangboyang/
   email: byz34339@gmail.com
   github: ZbynekCoder
 ---
