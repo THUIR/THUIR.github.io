@@ -4,7 +4,7 @@ image: images/people/wzf.jpg
 description: Ph.D. 2023-  
 role: phd
 links:  
-    home-page: https://wzf2000.github.io/
+    home-page: /group/wangzhefan/
     email: thuwzf2000@gmail.com
     github: wzf2000
 ---

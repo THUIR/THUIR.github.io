@@ -4,7 +4,7 @@ image: images/people/zxy.png
 description: Ph.D. 2022-
 role: phd 
 links: 
-    home-page: https://xiaoyuzh.github.io/ 
+    home-page: /group/zhangxiaoyu/ 
     email: zhxy0925@gmail.com
 ---
 

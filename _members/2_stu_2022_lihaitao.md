@@ -4,7 +4,7 @@ image: images/people/lht.jpg
 description: Ph.D. 2022-  
 role: phd  
 links:  
-    home-page: https://cshaitao.github.io/   
+    home-page: /group/lihaitao/   
     email: liht22@mails.tsinghua.edu.cn  
     github: lihaitao18375278  
 ---

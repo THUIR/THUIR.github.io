@@ -4,7 +4,7 @@ image: images/people/zky.png
 description: Ph.D. 2024-  
 role: phd
 links:  
-    home-page: https://miracle-2001.github.io/
+    home-page: /group/zhangkaiyuan/
     email: kaiyuanzhang2001@gmail.com
     github: Miracle-2001
 ---

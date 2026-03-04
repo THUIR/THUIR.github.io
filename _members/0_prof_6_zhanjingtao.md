@@ -1,10 +1,10 @@
 ---  
 name: Jingtao Zhan<br/>詹靖涛
 image: images/people/zjt.jpg  
-description: Ph.D. 2020-2025  
-role: phd  
+description: Tenure-Track Assistant Professor 教研系列准聘助理教授  
+role: pi  
 links: 
-    home-page: https://jingtaozhan.github.io/   
+    home-page: /group/jingtaozhan/   
     email: jingtaozhan@gmail.com   
     github: jingtaozhan   
     twitter: Jingtao_Zhan  
