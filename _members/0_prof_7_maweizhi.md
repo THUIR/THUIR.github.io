@@ -1,8 +1,9 @@
 ---
 name: Weizhi Ma<br/>马为之
 image: images/people/WeizhiMa.jpg
-description: Ph.D. 2014-2019
-role: phd
+description: Assistant Researcher 助理研究员
+affiliation: Institute for AI Industry Research, Tsinghua University
+role: pi
 aliases:
   - Weizhi Ma
 links: 

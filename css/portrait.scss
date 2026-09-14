@@ -46,6 +46,13 @@
     font-size: 0.9rem;
   }
 
+  .portrait_affiliation {
+    margin-top: -10px;
+    font-family: $sans;
+    font-size: 0.8rem;
+    color: $gray-500;
+  }
+
   .role {
     display: flex;
     justify-content: center;

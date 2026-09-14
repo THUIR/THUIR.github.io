@@ -55,5 +55,12 @@
     </span>
   {%- endif -%}
 
+    {%- assign affiliation = member.affiliation | default: "" -%}
+  {%- if affiliation -%}
+    <span class="portrait_affiliation">
+      {{ affiliation }}
+    </span>
+  {%- endif -%}
+
 </a>
 {:/}

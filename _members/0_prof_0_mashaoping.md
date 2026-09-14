@@ -2,6 +2,7 @@
 name: Shaoping Ma<br/>马少平
 image: images/people/msp.jpg
 description: Professor (Tenured) 教研系列长聘教授
+affiliation: Department of Computer Science and Technology, Tsinghua University 清华大学计算机系
 role: pi
 aliases:
   - S. Ma

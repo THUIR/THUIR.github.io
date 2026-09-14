@@ -2,6 +2,7 @@
 name: Qingyao Ai<br/>艾清遥
 image: images/people/aqy.jpg
 description: Tenure-Track Associate Professor 教研系列准聘副教授
+affiliation: Department of Computer Science and Technology, Tsinghua University 清华大学计算机系
 role: pi
 aliases:
   - Q. Ai
