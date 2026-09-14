@@ -1,7 +1,7 @@
 ---
 name: Hanyu Li<br/>李涵宇
 image: images/people/lhy.jpeg  
-description: Ph.D. 2020-  
+description: Ph.D. 2020-2026  
 role: phd 
 links:  
     home-page: /group/lihanyu/  

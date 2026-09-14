@@ -2,7 +2,7 @@
 name: Yueyue Wu<br/>吴玥悦
 image: images/people/wyy.jpeg 
 description: Assistant Researcher 助理研究员
-affiliation: Center of Tsinghua Think Tanks, Tsinghua University 清华大学智库中心
+affiliation: 清华大学智库中心
 role: pi
 links:  
     home-page: /group/yueyuewu/  

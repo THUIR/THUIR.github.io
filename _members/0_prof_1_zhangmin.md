@@ -2,7 +2,7 @@
 name: Min Zhang<br/>张敏
 image: images/people/MinZhang.jpg
 description: Professor (Tenured) 教研系列长聘教授
-affiliation: Department of Computer Science and Technology, Tsinghua University 清华大学计算机系
+affiliation: 清华大学计算机系
 role: pi
 aliases:
   - M Zhang

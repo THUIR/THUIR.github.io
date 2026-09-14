@@ -1,7 +1,7 @@
 ---
 name: Qian Dong<br/>董骞
 image: images/people/dq.jpg 
-description: Ph.D. 2022-   
+description: Ph.D. 2022-2026   
 role: phd   
 links:  
     home-page: /group/dongqian/

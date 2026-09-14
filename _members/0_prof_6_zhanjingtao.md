@@ -2,7 +2,7 @@
 name: Jingtao Zhan<br/>詹靖涛
 image: images/people/zjt.jpg  
 description: Tenure-Track Assistant Professor 教研系列准聘助理教授
-affiliation: Tsinghua Shenzhen International Graduate School 清华大学深圳国际研究生院
+affiliation: 清华大学深圳国际研究生院
 role: pi  
 links: 
     home-page: /group/jingtaozhan/   

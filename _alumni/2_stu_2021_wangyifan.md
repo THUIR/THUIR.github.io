@@ -1,7 +1,7 @@
 ---
 name: Yifan Wang<br/>王亦凡
 image: images/people/wyf.jpeg
-description: Ph.D. 2021- 
+description: Ph.D. 2021-2026 
 role: phd 
 links: 
     home-page: /group/wangyifan/   

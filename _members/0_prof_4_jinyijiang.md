@@ -2,7 +2,7 @@
 name: Yijiang Jin<br/>金奕江
 image: images/people/YijiangJin.jpg
 description: Engineer 工程师
-affiliation: Department of Computer Science and Technology, Tsinghua University 清华大学计算机系
+affiliation: 清华大学计算机系
 role: engineer
 aliases:
   - Y. Jin
