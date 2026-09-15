@@ -1,7 +1,7 @@
 ---
 name: Weizhi Ma<br/>马为之
 image: images/people/WeizhiMa.jpg
-description: Assistant Researcher 助理研究员
+description: Associate Professor 副研究员
 affiliation: 清华大学智能产业研究院
 role: pi
 aliases:

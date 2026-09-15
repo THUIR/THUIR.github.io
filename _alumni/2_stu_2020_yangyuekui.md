@@ -1,7 +1,7 @@
 ---
 name: Yuekui Yang<br/>杨月奎
 image: images/people/YuekuiYang.jpg
-description: Ph.D. 2020-
+description: Ph.D. 2020-2026
 role: phd
 aliases:
   - Yuekui Yang
