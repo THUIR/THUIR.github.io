@@ -1,7 +1,7 @@
 --- 
 name: Ziyad Fawzy<br/>方静泽 
 image: images/people/fjz.jpg  
-description: M.S. 2024-2026
+description: Master 2024-2026
 role: master  
 links:  
     email: fjz24@mails.tsinghua.edu.cn  
