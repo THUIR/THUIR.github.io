@@ -8,4 +8,4 @@ links:
     github: SebastianJonathan  
 ---
 
-Sebastian Jonathan is a Master student in the Advance Computing Program with a background in Large Language Model. His main interest currently is Recommendation System. He likes singing and reading.
+Sebastian Jonathan current instrests are mainly recommendation system and user profiling. He has a background in Large Language Model. He likes singing and reading.
